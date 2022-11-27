@@ -49,7 +49,7 @@ $ python meters-api/app.py
 ```
 In flask, Default port is `8000`
 
-Swagger document page:  `http://127.0.0.1:8000/meters/`
+Web page:  `http://127.0.0.1:8000/meters/`
 
 ## Reference
 
